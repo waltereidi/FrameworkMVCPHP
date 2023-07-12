@@ -1,0 +1,23 @@
+{
+    "autoload": {
+        "psr-4": {
+        "MVC\\View\\IndexView\\": "View\\",
+        "MVC\\View\\PaginaErroView\\" : "View\\",
+
+        "MVC\\Model\\IndexModel\\": "Model\\",
+
+        "MVC\\Controller\\AbstractController\\": "Controller\\",
+        "MVC\\Controller\\IndexController\\": "Controller\\",    
+        "MVC\\Controller\\PaginaErroController\\": "Controller\\",    
+
+        "MVC\\Router\\" :"",
+		"MVC\\InjetorDependencia\\" :"" ,
+
+        "MVC\\Entidade\\EntidadeBase\\" : "Entidade\\", 
+        "MVC\\Entidade\\TabelaTeste\\" : "Entidade\\", 
+
+        "MVC\\ConectorDatabase\\CrudController\\" : "ConectorDatabase\\",
+        "MVC\\ConectorDatabase\\DatabaseConnect\\" : "ConectorDatabase\\"
+        }
+    }
+}
