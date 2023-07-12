@@ -1,7 +1,7 @@
 {
-    "host": "54.167.140.144" , 
+    "host": "" , 
     "database": "postgres" ,
     "port": 5432 , 
     "user": "postgres" , 
-    "password" : "eidi1234" 
+    "password" : "" 
  }
